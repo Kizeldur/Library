@@ -1,7 +1,7 @@
 ﻿#include<string>
 #include "cli.h"
 #include "FileInteraction.h"
-/////////////////
+
 using namespace std;
 struct Date {
     int year;
